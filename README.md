@@ -29,7 +29,7 @@ A clean, full-stack Note-Taking application built with **Django**, **jQuery**, a
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/manasvi-mathur/Minimalist-Notes-App
-   cd DjangoNotes
+   cd Minimalist-Notes-App
    ```
 2. **Install Dependencies**:
    ```bash
