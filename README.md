@@ -28,7 +28,7 @@ A clean, full-stack Note-Taking application built with **Django**, **jQuery**, a
 ## 🚀 Getting Started
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/AtharvaMaik/DjangoNotes.git
+   git clone https://github.com/manasvi-mathur/Minimalist-Notes-App
    cd DjangoNotes
    ```
 2. **Install Dependencies**:
